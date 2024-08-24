@@ -15,6 +15,7 @@
     "discord-api-types": "^0.37.97",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
+    "live-stock-price": "^1.0.4",
     "stocks.js": "^0.0.19"
   }
 }

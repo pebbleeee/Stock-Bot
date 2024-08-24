@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require("discord.js");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("get-price-intervals")
-    .setDescription("Gets Current Stock Price!")
+    .setDescription("Gets Stock Prices Over Intervals!")
     .addStringOption((option) =>
       option
         .setRequired(true)
