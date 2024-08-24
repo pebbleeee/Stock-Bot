@@ -16,6 +16,7 @@
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
     "live-stock-price": "^1.0.4",
+    "mongoose": "^8.5.4",
     "stocks.js": "^0.0.19"
   }
 }
